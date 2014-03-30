@@ -1,5 +1,5 @@
 {
-  "name": "karma-sauce-launcher",
+  "name": "karma-sauce-launcher-shahata",
   "version": "0.2.4",
   "description": "A Karma plugin. Launch any browser on SauceLabs!",
   "main": "index.js",
